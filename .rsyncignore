@@ -1,0 +1,6 @@
+# .rsyncignore
+.venv/
+__pycache__/
+*.pyc
+.git/
+.DS_Store
