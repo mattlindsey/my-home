@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# SQLite database
+*.db
+
+# Frontend
+node_modules/
+frontend/dist/
